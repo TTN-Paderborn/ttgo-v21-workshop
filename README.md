@@ -28,6 +28,6 @@ Die Entwicklungsumgebung ist jetzt für das Entwicklungsboard eingerichtet und d
 
 Nachfolgend werden die einzelnen Lektionen des Workshops durchgeführt. Alle Verzeichnisse enthalten einen fertigen Beispielsketch, in dem die Aufgabe der Lektionen bereits durchgeführt wurden.
 
-  1. [Lektion 1 - Sensor auslesen](./Lektion 1/README.md)
+  1. [Lektion 1 - Sensor auslesen](/Lektion%201/README.md)
   2. Lektion 2 - Sensorwerte auf dem Display ausgeben
   3. Lektion 3 - Sensorwerte mit LoRaWAN und dem The Things Network übertragen
